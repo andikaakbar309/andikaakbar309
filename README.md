@@ -53,6 +53,5 @@ I am a Junior Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikaakbar309&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-:writing_hand: Blog Posts :
-### 📑 Praktik Kerja Lapangan/Field Work Practices Project:
-🔖 [Nothing]
+### 🏢 Praktik Kerja Lapangan/Field Work Practices Project:
+📌 [Nothing]
