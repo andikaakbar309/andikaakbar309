@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE0ZXA0emxpemF6MXBrNGtsNGxvbG05MmZxNHZlb2NlZGJjOGdtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.gif" width="100">
 </div>
 <div id="badges">
-  <a href="https://www.instagram.com/reel/C4UOQH7rDPi/?igsh=bnVhbmwyY2J0N3V4">
+  <a href="https://www.instagram.com/juniansyah.ka?utm_source=qr&igsh=MmZ4NjAxbXZwcmNy">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Andika Akbar J"/>
   </a>
   <a href="https://www.facebook.com/andika.kzrxrox?mibextid=ZbWKwL">
